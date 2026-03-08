@@ -63,29 +63,32 @@ Detailed explanation of the circuit design, calculations and PCB manufacturing p
 ---
 ## Project Images
 
-### Proteus Circuit Design
-![Proteus Circuit](images/proteus-circuit.png)
+### Proteus Circuit
+![Proteus Circuit](images/proteus-circuit.jpeg)
 
 ### PCB Layout
-![PCB Layout](images/pcb-layout.png)
+![PCB Layout](images/pcb-layout.jpeg)
 
 ### 3D PCB View
-![3D PCB](images/pcb-3d.png)
+![3D PCB](images/pcb-3d (1).jpeg)
 
-### Copper Board Before Etching
-![Copper Board](images/copper-board.png)
+### 3D PCB View (Alternative)
+![3D PCB](images/pcb-3d (2).jpeg)
 
-### PCB Etching Process
-![Etching](images/etching-process.png)
+### Copper Board
+![Copper Board](images/copper-board.jpeg)
 
-### PCB Drilling
-![Drilling](images/drilling.png)
+### Etching Process
+![Etching](images/etching-process.jpeg)
 
-### Component Soldering
-![Soldering](images/soldering.png)
+### Drilling PCB
+![Drilling](images/drilling.jpeg)
+
+### Soldering
+![Soldering](images/soldering.jpeg)
 
 ### Final PCB
-![Final PCB](images/final-pcb.png)
+![Final PCB](images/final-pcb.jpeg)
 
 ## Author
 
