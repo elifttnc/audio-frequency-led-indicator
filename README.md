@@ -61,6 +61,31 @@ The system detects sound signals through a microphone, processes the signal usin
 Detailed explanation of the circuit design, calculations and PCB manufacturing process can be found in the project report.
 
 ---
+## Project Images
+
+### Proteus Circuit Design
+![Proteus Circuit](images/proteus-circuit.png)
+
+### PCB Layout
+![PCB Layout](images/pcb-layout.png)
+
+### 3D PCB View
+![3D PCB](images/pcb-3d.png)
+
+### Copper Board Before Etching
+![Copper Board](images/copper-board.png)
+
+### PCB Etching Process
+![Etching](images/etching-process.png)
+
+### PCB Drilling
+![Drilling](images/drilling.png)
+
+### Component Soldering
+![Soldering](images/soldering.png)
+
+### Final PCB
+![Final PCB](images/final-pcb.png)
 
 ## Author
 
