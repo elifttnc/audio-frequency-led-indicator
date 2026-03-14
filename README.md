@@ -5,7 +5,7 @@ This project presents an analog electronic circuit that visualizes sound frequen
 
 The system detects sound signals through a microphone, processes the signal using RC filters, and drives LEDs using transistor amplification. Different LEDs respond to different frequency ranges, allowing the circuit to represent low, medium, and high frequency sounds visually.
 
----
+
 
 ## Project Features
 
@@ -16,7 +16,7 @@ The system detects sound signals through a microphone, processes the signal usin
 - PCB design and implementation
 - Designed and simulated in Proteus
 
----
+
 
 ## How the Circuit Works
 
@@ -32,7 +32,7 @@ The system detects sound signals through a microphone, processes the signal usin
 - Green LED → Medium frequencies  
 - Blue LED → High frequencies  
 
----
+
 
 ## Components Used
 
@@ -43,7 +43,7 @@ The system detects sound signals through a microphone, processes the signal usin
 - LEDs  
 - 9V Power Supply  
 
----
+
 
 ## Engineering Design Process
 
@@ -54,7 +54,7 @@ The system detects sound signals through a microphone, processes the signal usin
 5. Component soldering
 6. Circuit testing
 
----
+
 
 ## Project Report
 
